@@ -27,22 +27,6 @@ This project focuses on **real-world healthcare AI challenges** such as OCR reli
 - **Image Processing:** Pillow, NumPy  
 - **Language:** Python 3.11  
 
----
-
-## 📂 Project Structure
-
-src/
-├── agents/ # AI agent orchestration and analysis logic
-├── components/ # Streamlit UI components
-│ └── analysis_form.py
-├── utils/ # OCR, PDF parsing, risk assessment
-│ ├── image_ocr.py
-│ ├── pdf_extractor.py
-│ └── risk_assessor.py
-├── config/ # App configuration and AI prompts
-├── services/ # AI service layer
-├── main.py # Application entry point
-
 
 ---
 
