@@ -35,7 +35,10 @@ This project focuses on **real-world healthcare AI challenges** such as OCR reli
 ## Video DEMO
 
 
-https://github.com/user-attachments/assets/68bd79d6-63ca-4ca2-9b61-ce43249b8dc4
+
+
+
+https://github.com/user-attachments/assets/e7ddac24-d281-45d2-84c2-67b7d500b1af
 
 
 
