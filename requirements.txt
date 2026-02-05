@@ -1,0 +1,16 @@
+# Core
+streamlit
+python-dotenv
+numpy
+pillow
+opencv-python
+
+# AI
+groq
+
+# OCR (Image reports)
+paddleocr
+paddlepaddle
+
+# PDF
+pdfplumber
