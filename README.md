@@ -30,6 +30,18 @@ This project focuses on **real-world healthcare AI challenges** such as OCR reli
 
 ---
 
+---
+
+## Video DEMO
+
+
+https://github.com/user-attachments/assets/68bd79d6-63ca-4ca2-9b61-ce43249b8dc4
+
+
+
+
+---
+
 ## 🧠 How It Works
 
 1. User uploads a **PDF or scanned image** of a medical report  
